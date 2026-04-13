@@ -2,7 +2,7 @@
 
 🎓 Computer Science student in FMI  
 💻 Interested in Java, backend development  
-🚀 Currently working on: Splitwise project  
+🚀 Currently building: [Splitwise App]([https://github.com/16Niki16/...])    
 📫 How to reach me: nikipetrov03@gmail.com  
 
 ## 🛠️ Technologies
