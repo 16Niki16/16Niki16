@@ -12,4 +12,5 @@
 - SQL
 - Currently learning Spring
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
+![Niki's GitHub stats](https://github-readme-stats.vercel.app/api?username=16Niki16&show_icons=true&theme=tokyonight)
