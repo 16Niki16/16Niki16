@@ -13,8 +13,8 @@
 - Currently learning Spring
 
 ## 📊 GitHub Stats  
-![Niki's GitHub stats](https://github-readme-stats.vercel.app/api?username=16Niki16&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=16Niki16&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=16Niki16&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=16Niki16&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=16Niki16&theme=tokyonight)
