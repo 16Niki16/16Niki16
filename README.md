@@ -5,8 +5,8 @@
 📫 How to reach me: nikipetrov03@gmail.com  
 
 ## 🛠️ Technologies
-- Java, C++, Git, SQL, Scheme, Haskell
-- Currently learning Spring
+- Java, Spring, Docker, Kubernetes, C++, Git, SQL, Scheme, Haskell
+- Currently learning Kafka
 
 ## 📊 GitHub Stats  
 
